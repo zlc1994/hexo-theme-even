@@ -19,7 +19,7 @@ rss: default
 menu:
   Home: /
   Archives: /archives/
-  # Tags: /tags
+  Tags: /tags
   # Categories: /categories
   # About: /about
 
@@ -34,7 +34,7 @@ theme:
   fancybox: false
 
 copyright:
-  enable: true
+  enable: false
   # https://creativecommons.org/
   license: '<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>'
 
@@ -48,13 +48,13 @@ reward:
 # Social links Settings
 # ===========================================
 social:
-  email: your@email.com
+  email: z@zlc1994.com
   stack-overflow:
-  twitter:
+  twitter: https://twitter.com/zlc1994
   facebook:
   linkedin:
   google:
-  github:
+  github: https://github.com/zlc1994
   weibo:
   zhihu:
   douban:

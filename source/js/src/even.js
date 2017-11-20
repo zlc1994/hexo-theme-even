@@ -1,6 +1,8 @@
 (function (window) {
   'use strict';
 
+  $('tr').removeClass('header');
+
   var Even = {};
 
   Even.backToTop = function () {

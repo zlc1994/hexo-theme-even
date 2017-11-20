@@ -51,12 +51,14 @@
   }
 
   img {
-    display: inline-block;
+    display: block;
     max-width: 100%;
+    margin: 1em auto;
   }
 
   > table {
-    max-width: 100%;
+    width: 100%;
+    text-align: center;
     margin: 10px 0;
     border-spacing: 0;
     box-shadow: 2px 2px 3px rgba(0,0,0,.125);
